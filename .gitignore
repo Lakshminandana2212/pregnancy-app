@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
 
 # Distribution / packaging
 .Python
